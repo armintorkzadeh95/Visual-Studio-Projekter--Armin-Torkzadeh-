@@ -19,3 +19,9 @@ body {
     display: block;
     text-decoration: none;
   }
+
+  img {
+    border-radius: 75px;
+    margin-top: 20px;
+    animation: bounce 2s infinite;
+  }
